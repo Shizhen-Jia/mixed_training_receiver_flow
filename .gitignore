@@ -1,0 +1,72 @@
+# Operating system and editors
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Python environments, caches, and packaging output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+/build/
+/dist/
+/htmlcov/
+.coverage
+
+# Local configuration and credentials; keep a sanitized example when needed
+.env
+.env.*
+!.env.example
+.aws/
+.ssh/
+.codex/
+*.pem
+*.key
+credentials*.json
+
+# Generated FPGA/HLS working directories (keep source .cpp/.h/.sv/.tcl/.py)
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*_prj/
+/fpga/build/
+/hls/build/
+/integration/build/
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg
+*.vcd
+*.fst
+*.dcp
+*.bit
+*.bin
+*.xsa
+
+# Private/local artifacts and temporary output
+/.local/
+/tmp/
+/scratch/
+/captures/
+/submission/
+*.zip
+journal_paper.pdf
+
+# Keep small, curated evidence under vectors/ and results/ in version control.
+# Do not blanket-ignore those directories or source/report file formats.
