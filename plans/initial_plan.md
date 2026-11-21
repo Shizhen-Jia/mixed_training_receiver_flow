@@ -3,7 +3,8 @@
 **Project / repository name:** `mixed_training_receiver_flow`\
 **Date:** November 20, 2026\
 **Status:** Proposed architecture; RTL/HLS implementation, board validation, and measured performance are future work.\
-**Submission artifact:** This file, `plans/initial_plan.md`, in the public project repository.
+**GitHub repository:** [Shizhen-Jia/mixed_training_receiver_flow](https://github.com/Shizhen-Jia/mixed_training_receiver_flow)\
+**Submission artifact:** [plans/initial_plan.md on main](https://github.com/Shizhen-Jia/mixed_training_receiver_flow/blob/main/plans/initial_plan.md). Push the file and verify public access before grading.
 
 ## 1. Project Team
 

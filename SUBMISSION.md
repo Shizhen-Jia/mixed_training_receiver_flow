@@ -2,14 +2,17 @@
 
 本次对应截图中的 **Initial Plan / Project Outline**。提交文件是 [`plans/initial_plan.md`](plans/initial_plan.md)，当前状态是计划阶段。作业由 SJ00425 自行提交。
 
-## GitHub 准备
+## GitHub 与提交链接
 
-1. 创建名为 `mixed_training_receiver_flow` 的 **public** 仓库。建议建空仓库，本地已准备 README、`.gitignore` 和初始计划。
-2. 将仓库链接发给 Codex，完成关联远程仓库并 push 到 `main`。
-3. push 后打开 `plans/initial_plan.md`，复制浏览器中的完整文件链接。提交的是该文件的 GitHub 链接，不是本地路径，也不是只含目录的仓库首页。
-4. 退出登录或使用无痕窗口确认该文件可以公开读取。
+仓库：[Shizhen-Jia/mixed_training_receiver_flow](https://github.com/Shizhen-Jia/mixed_training_receiver_flow)
 
-计划文件的链接结构为 `https://github.com/<owner>/mixed_training_receiver_flow/blob/main/plans/initial_plan.md`；`<owner>` 必须替换为实际仓库所有者，不能原样提交。push 完成后会提供实际链接。
+答案框使用的计划文件链接：
+
+```text
+https://github.com/Shizhen-Jia/mixed_training_receiver_flow/blob/main/plans/initial_plan.md
+```
+
+评分前，先将本地文件 push 到该仓库的 `main` 分支，并确认仓库为 **public**。退出登录或使用无痕窗口打开[计划文件](https://github.com/Shizhen-Jia/mixed_training_receiver_flow/blob/main/plans/initial_plan.md)，确认内容可以公开读取。本说明提供目标链接，不代表已经完成 push 或公开访问验证。
 
 ## 评分与上交
 
@@ -24,7 +27,7 @@
 
 | 要求 | 完成位置 |
 |---|---|
-| GitHub repo / 计划链接 | 仓库创建并 push 后使用实际文件链接 |
+| GitHub repo / 计划链接 | 上方实际仓库与 `main/plans/initial_plan.md` 链接；评分前完成 push 和公开访问检查 |
 | Project team | 初始计划第 1 节：SJ00425，sole contributor |
 | IP definition / 数学 / 硬件加速原因 | 初始计划第 2 节 |
 | 子模块与 PS/PL 分工 | 初始计划第 3 节模块表 |

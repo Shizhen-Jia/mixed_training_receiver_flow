@@ -11,7 +11,7 @@ This project studies two complex receiver records containing copies of the same 
 
 The course submission document is **[plans/initial_plan.md](plans/initial_plan.md)**. It contains the project team, mathematical IP definition, acceleration rationale, architecture alternatives, selected PS/PL partition, explicit interfaces, and verification milestones.
 
-Once this repository is public on GitHub, submit the URL of that file on the `main` branch. See [the submission guide](SUBMISSION.md) for the remaining steps.
+The GitHub repository is [Shizhen-Jia/mixed_training_receiver_flow](https://github.com/Shizhen-Jia/mixed_training_receiver_flow). After the plan is pushed to `main` and public access is verified, submit this [initial-plan file URL](https://github.com/Shizhen-Jia/mixed_training_receiver_flow/blob/main/plans/initial_plan.md). See [the submission guide](SUBMISSION.md) for the remaining steps.
 
 ## Selected design
 
